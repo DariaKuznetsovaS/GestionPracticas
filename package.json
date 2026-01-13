@@ -1,0 +1,25 @@
+{
+  "name": "gestionpracticas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaKuznetsovaS/GestionPracticas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DariaKuznetsovaS/GestionPracticas/issues"
+  },
+  "homepage": "https://github.com/DariaKuznetsovaS/GestionPracticas#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "sass": "^1.97.2"
+  }
+}
